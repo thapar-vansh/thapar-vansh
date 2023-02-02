@@ -1,20 +1,6 @@
 <h1 align="center">I'm Vansh Thapar</h1>
 <h3 align="center">(Learning full-stack development)</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thapar-vansh" alt="thapar-vansh" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thapar-vansh&show_icons=true&locale=en" alt="thapar-vansh" /></p>
-
-- 🔭 I’m currently working on [UPS-Clone](https://github.com/thapar-vansh/UPS-Clone.git)
-
-- 🌱 I’m currently learning **React-Native**
-
-- 📫 How to reach me **thaparvansh29@gmail.com**
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thapar-vansh&show_icons=true&locale=en&layout=compact" alt="thapar-vansh" /></p>
 <br><br><br><br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
